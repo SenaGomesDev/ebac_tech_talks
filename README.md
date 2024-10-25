@@ -8,6 +8,8 @@ Zero configuração: Parcel cuida de grande parte do setup, permitindo que você
 Suporte a vários formatos: JS, CSS, imagens e até arquivos de configuração podem ser processados com facilidade.
 Hot Module Replacement (HMR): Desenvolvimento em tempo real, sem recarregar a página completa.
 Performance: Parcel é otimizado para fornecer builds rápidos e eficientes.
+
+
 💻 Tecnologias Envolvidas
 As principais tecnologias e ferramentas abordadas durante o evento incluem:
 
